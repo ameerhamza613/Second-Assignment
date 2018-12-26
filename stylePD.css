@@ -1,0 +1,92 @@
+table{
+	
+	border:1px solid black;
+	border-collapse: collapse;
+	margin-left: 300px;
+	margin-top: 30px;
+	border-radius: 5px;
+	
+}
+
+th{
+   background-color: black;
+   color: white;
+   padding: 15px;
+   font-family: courier;
+   border: 1px solid white;
+   text-align: left;
+   border-radius: 5px;
+
+}
+th:hover{
+	background-color: grey;
+
+}
+tr{
+
+	text-align: center;
+	border:1px solid black;
+	border-collapse: collapse;
+	background-color: #ffffcc ;
+	font-size: 20px;
+	font-family: verdana ;
+	border-radius: 5px;
+
+}
+
+#wwe{
+	margin: 10px;
+    padding: 20px;
+	background-color: black;
+	font-family: courier;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+
+.footer{
+
+	position: fixed;
+	left: 10;
+	bottom: 0;
+	height: 40px;
+	background-color: black;
+	width: 10%;
+	border: none;
+	border-radius: 3px;
+	margin-left: 60px;
+}
+
+.footer button{
+
+	border: none;
+	border-radius: 3px;
+	width: 140px;
+	height: 40px;
+	background-color: black;
+	color: white;
+	font-family: verdana;
+	font-size: 23px;
+
+}
+
+
+.footer button:hover{
+
+	background-color: powderblue;
+	color: black;
+}
+
+.footer a{
+
+	text-decoration: none;
+	color: white;
+}
+
+
+
+
+
+
+
+
